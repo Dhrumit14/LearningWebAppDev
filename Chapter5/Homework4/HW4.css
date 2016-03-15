@@ -1,0 +1,9 @@
+.demo-list-action {
+  width: 300px;
+}
+
+body {
+  padding: 40px;
+  background: #fafafa;
+  position: relative;
+}

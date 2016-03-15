@@ -1,0 +1,34 @@
+{
+  "actors": [
+    {
+      "name": "Bryan Cranston",
+      "starred": false,
+      "id": 1
+    },
+    {
+      "name": "Aaron Paul",
+      "starred": false,
+      "id": 2
+    },
+    {
+      "name": "Bob Odenkirk",
+      "starred": false,
+      "id": 3
+    },
+    {
+      "name": "Dean Norris",
+      "starred": false,
+      "id": 4
+    },
+    {
+      "name": "Dhrumit",
+      "starred": false,
+      "id": 5
+    },
+    {
+      "name": "Pankil",
+      "starred": false,
+      "id": 6
+    }
+  ]
+}
